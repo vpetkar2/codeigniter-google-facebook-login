@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CRUD PHP Generator | Login</title>
+    <title>Auth Module | Login</title>
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link href="<?php echo base_url(); ?>assets/dist/css/toastr.min.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>assets/dist/css/style.css" rel="stylesheet">
