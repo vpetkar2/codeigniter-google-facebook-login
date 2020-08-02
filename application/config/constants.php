@@ -85,7 +85,7 @@ defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automat
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
 
-defined('LOCAL_USERNAME') 		OR define('LOCAL_USERNAME', 'vishal');
-defined('LOCAL_PASSWORD') 		OR define('LOCAL_PASSWORD', 'password');
-defined('SERVER_USERNAME') 		OR define('SERVER_USERNAME', 'root');
-defined('SERVER_PASSWORD') 		OR define('SERVER_PASSWORD', 'f72p6stw@');
+defined('LOCAL_USERNAME') 		OR define('LOCAL_USERNAME', '');
+defined('LOCAL_PASSWORD') 		OR define('LOCAL_PASSWORD', '');
+defined('SERVER_USERNAME') 		OR define('SERVER_USERNAME', '');
+defined('SERVER_PASSWORD') 		OR define('SERVER_PASSWORD', '');
